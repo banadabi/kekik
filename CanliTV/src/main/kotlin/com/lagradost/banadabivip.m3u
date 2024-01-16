@@ -118,13 +118,6 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/7565.ts
 
 
 
-
-#EXTINF:-1 tvg-name="Tv8.5  Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/TV8-5.png"group-title="TR • Spor [ D Smart ]",Tv8.5  Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/2068.ts
-
-
-
-
 #EXTINF:-1 tvg-name="Kanal 7 Hd  [Europe ]"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/kanal7-avrupa.png"group-title="TR Ulusal",Kanal 7 Hd  [Europe ]
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/102777.ts
 
@@ -2818,7 +2811,8 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/146415.ts
 
 #EXTINF:-1 tvg-name="D Smart Spor Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/spor/smart-spor.png"group-title="TR Spor",D Smart Spor Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/44016.ts
-
+#EXTINF:-1 tvg-name="Tv8.5  Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/TV8-5.png"group-title="TR Spor",Tv8.5  Hd
+http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/2068.ts
 #EXTINF:-1 tvg-name="D Smart Spor Sd"tvg-id=""tvg-logo="https://kanallogo2.com/images/spor/smart-spor.png"group-title="TR Spor",D Smart Spor Sd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/56226.ts
 
