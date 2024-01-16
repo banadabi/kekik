@@ -176,32 +176,6 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82511.ts
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82512.ts
 
 
-
-
-#EXTINF:-1 tvg-name="Kibris Ada Tv Hd"tvg-id=""tvg-logo=""group-title="TR • Kibris",Kibris Ada Tv Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82564.ts
-
-
-
-
-#EXTINF:-1 tvg-name="Kanal T Hd"tvg-id=""tvg-logo=""group-title="TR • Kibris",Kanal T Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82565.ts
-
-
-
-
-#EXTINF:-1 tvg-name="Kibris Genc Tv Hd"tvg-id=""tvg-logo=""group-title="TR • Kibris",Kibris Genc Tv Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82567.ts
-
-
-
-
-#EXTINF:-1 tvg-name="Kibris Tv Hd"tvg-id=""tvg-logo=""group-title="TR • Kibris",Kibris Tv Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/82568.ts
-
-
-
-
 #EXTINF:-1 tvg-name="Teve2 Hd"tvg-id="teve2.tr"tvg-logo="https://kanallogo2.com/images/ulusal/teve-2.png"group-title="TR Ulusal",Teve2 Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/83.ts
 
@@ -226,7 +200,7 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/7562.ts
 
 
 
-#EXTINF:-1 tvg-name="Lalegül Tv Hd"tvg-id=""tvg-logo=""group-title="TR • Dini Kanallar",Lalegül Tv Hd
+#EXTINF:-1 tvg-name="Lalegül Tv Hd"tvg-id=""tvg-logo=""group-title="TR Ulusal",Lalegül Tv Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/31227.ts
 
 
@@ -238,7 +212,7 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/31230.ts
 
 
 
-#EXTINF:-1 tvg-name="Dost Tv Hd"tvg-id=""tvg-logo=""group-title="TR • Dini Kanallar",Dost Tv Hd
+#EXTINF:-1 tvg-name="Dost Tv Hd"tvg-id=""tvg-logo=""group-title="TR Ulusal",Dost Tv Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/31232.ts
 
 
@@ -370,18 +344,6 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/81649.ts
 
 
 
-#EXTINF:-1 tvg-name="NR Turk Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/muzik/Nr1-Turk-Sd.png"group-title="TR • Muzik",NR Turk Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/81757.ts
-
-
-
-
-#EXTINF:-1 tvg-name="Dream Turk Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/muzik/dreamturk.png"group-title="TR • Muzik",Dream Turk Hd
-http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/81759.ts
-
-
-
-
 #EXTINF:-1 tvg-name="Tv 264 Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/tv-264.png"group-title="TR Ulusal",Tv 264 Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/99014.ts
 
@@ -406,7 +368,7 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/99019.ts
 
 
 
-#EXTINF:-1 tvg-name="Fm Tv Hd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/fe74c8e19704e46e1c52047303864582.png"group-title="TR • Dini Kanallar",Fm Tv Hd
+#EXTINF:-1 tvg-name="Fm Tv Hd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/fe74c8e19704e46e1c52047303864582.png"group-title="TR Ulusal",Fm Tv Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/99020.ts
 
 
@@ -484,31 +446,31 @@ http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/99043.ts
 
 
 
-#EXTINF:-1 tvg-name="Vav Tv Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/vav.png"group-title="TR • Dini Kanallar",Vav Tv Hd
+#EXTINF:-1 tvg-name="Vav Tv Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/vav.png"group-title="TR Ulusal",Vav Tv Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/123216.ts
 
 
 
 
-#EXTINF:-1 tvg-name="Kabe ( Canli ) AL Quran Sd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/99512374d979efd7df520bfdd007080a.jpg"group-title="TR • Dini Kanallar",Kabe ( Canli ) AL Quran Sd
+#EXTINF:-1 tvg-name="Kabe ( Canli ) AL Quran Sd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/99512374d979efd7df520bfdd007080a.jpg"group-title="TR Ulusal",Kabe ( Canli ) AL Quran Sd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/123218.ts
 
 
 
 
-#EXTINF:-1 tvg-name="Semerkand Hd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/cbc3a0960b12258c11c55394a2e0209f.png"group-title="TR • Dini Kanallar",Semerkand Hd
+#EXTINF:-1 tvg-name="Semerkand Hd"tvg-id=""tvg-logo="http://raostvip.com:8080/images/cbc3a0960b12258c11c55394a2e0209f.png"group-title="TR Ulusal",Semerkand Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/175.ts
 
 
 
 
-#EXTINF:-1 tvg-name="Saudi Sunnah Sd"tvg-id=""tvg-logo="http://panelvip1.com:8080/images/fa97f7248db60ff9720a8971bae12244.png"group-title="TR • Dini Kanallar",Saudi Sunnah Sd
+#EXTINF:-1 tvg-name="Saudi Sunnah Sd"tvg-id=""tvg-logo="http://panelvip1.com:8080/images/fa97f7248db60ff9720a8971bae12244.png"group-title="TR Ulusal",Saudi Sunnah Sd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/123217.ts
 
 
 
 
-#EXTINF:-1 tvg-name="Diyanet Tv Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/diyanet.png"group-title="TR • Dini Kanallar",Diyanet Tv Hd
+#EXTINF:-1 tvg-name="Diyanet Tv Hd"tvg-id=""tvg-logo="https://kanallogo2.com/images/ulusal/diyanet.png"group-title="TR Ulusal",Diyanet Tv Hd
 http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/123219.ts
 
 
