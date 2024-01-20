@@ -26,6 +26,9 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 
 
+#EXTINF:-1 tvg-name="Star Tv Euro Hd" tvg-language="Turkish" tvg-country="TR" tvg-id="startv.tr"tvg-logo="https://kanallogo2.com/images/ulusal/star-tv.png"group-title="TRT",Star Tv Euro Hd
+http://22.klosebusines.xyz:80/live/toronto66/dr434fd54s3/7563.m3u8
+
 
 # * » Haber « * #
 #EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
